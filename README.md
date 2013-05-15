@@ -1,0 +1,1 @@
+I couldn't figure out how to make Bower automatically pull in [angular-ui/ui-map](https://github.com/angular-ui/ui-map)'s  dependencies, so here's the version that I got from http://angular-ui.github.io/ before they started breaking up the modules into sub-projects, which does have any dependencies.
